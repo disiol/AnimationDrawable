@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item
+        android:drawable="@drawable/accepted_0"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_1"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_2"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_3"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_4"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_5"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_6"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_7"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_8"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_9"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_10"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_11"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_12"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_13"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_14"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_15"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_16"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_17"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_18"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_19"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_20"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_21"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_22"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_23"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_24"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/accepted_25"
+        android:duration="250" />
+</animation-list>
